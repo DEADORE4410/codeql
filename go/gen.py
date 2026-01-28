@@ -1,4 +1,8 @@
-"""
+11223221121133456554590=1
++1141411114144477787872525253666%9=+1
+300008161
+"gh repo clone github/codeql
+"
 Update generated files related to Go in the repo. Using --force will regenerate all files from scratch.
 
 In particular the script will:
